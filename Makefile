@@ -17,4 +17,6 @@ clean:
 	rm -r dist
 
 package-update: clean build publish package-install
-	
+
+lint:
+	poetry run flake8 brain_games
