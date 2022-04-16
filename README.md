@@ -7,3 +7,7 @@
 [![wemake-python-styleguide](https://img.shields.io/badge/style-wemake-000000.svg)](https://github.com/wemake-services/wemake-python-styleguide)
 
 ![example workflow](https://github.com/temir988/python-project-lvl1/actions/workflows/my-check.yml/badge.svg)
+
+### Even game example:
+
+[![asciicast](https://asciinema.org/a/UELT3i5nQGmKTDTYzN7kbUOgS.svg)](https://asciinema.org/a/UELT3i5nQGmKTDTYzN7kbUOgS)
