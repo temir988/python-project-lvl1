@@ -10,4 +10,8 @@
 
 ### Even game example:
 
-[![asciicast](https://asciinema.org/a/UELT3i5nQGmKTDTYzN7kbUOgS.svg)](https://asciinema.org/a/UELT3i5nQGmKTDTYzN7kbUOgS)
+[![asciicast](https://asciinema.org/a/487917.svg)](https://asciinema.org/a/487917)
+
+### Calculator game example:
+
+[![asciicast](https://asciinema.org/a/489104.svg)](https://asciinema.org/a/489104)
