@@ -19,3 +19,7 @@
 ### GCD game example:
 
 [![asciicast](https://asciinema.org/a/489640.svg)](https://asciinema.org/a/489640)
+
+### Progression game example:
+
+[![asciicast](https://asciinema.org/a/mDj3hjgCt4iNBtCZuNYqRuP0W.svg)](https://asciinema.org/a/mDj3hjgCt4iNBtCZuNYqRuP0W)
