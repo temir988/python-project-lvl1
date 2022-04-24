@@ -15,3 +15,7 @@
 ### Calculator game example:
 
 [![asciicast](https://asciinema.org/a/489104.svg)](https://asciinema.org/a/489104)
+
+### GCD game example:
+
+[![asciicast](https://asciinema.org/a/489640.svg)](https://asciinema.org/a/489640)

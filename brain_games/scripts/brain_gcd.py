@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 
-"""Brain-even game script."""
-
-from brain_games.even_game import even_game
+"""Brain-gcd game script."""
+from brain_games.gcd_game import gcd_game
 
 
 def main():
     """Project main function."""
-    even_game()
+    gcd_game()
 
 
 if __name__ == '__main__':
