@@ -27,4 +27,4 @@ def get_progression():
     progression = [*range(start, start + length * step, step)]
     hidden_elem = progression[hidden_index]
     progression[hidden_index] = '..'
-    return progression, hidden_elem
+    return " ".join(map(str, progression)), hidden_elem
