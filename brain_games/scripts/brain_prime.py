@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """Brain-gcd game script."""
-from brain_games.prime_game import prime_game
+from brain_games.games.prime_game import prime_game
 
 
 def main():

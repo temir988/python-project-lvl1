@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.1.9"
-description = ""
+version = "0.1.10"
+description = "Project with 5 simple console games"
 authors = ["Temirlan"]
+classifiers = [
+    "Topic :: Games/Entertainment"
+]
 packages = [
     { include = "brain_games" }
 ]

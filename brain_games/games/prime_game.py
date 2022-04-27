@@ -1,7 +1,7 @@
 """Step logic for brain-prime game."""
 
 import random
-from brain_games.common_game import get_answer, run_game
+from brain_games.games.common_game import get_answer, run_game
 
 
 def prime_game():
